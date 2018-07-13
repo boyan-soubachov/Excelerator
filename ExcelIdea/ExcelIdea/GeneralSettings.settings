@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ExcelIdea" GeneratedClassName="GeneralSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ExcelDataSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">file</Value>
+    </Setting>
+    <Setting Name="CCInBackground" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CCPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\ExcelIdea\bin</Value>
+    </Setting>
+    <Setting Name="OpenResultFile" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DefaultResultDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Bob\Desktop</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
